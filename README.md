@@ -1,5 +1,5 @@
 # check-rbls
-Scripts para automatizar a checagem de RBLs.
+Script para automatizar a checagem de RBLs.
 
 Para fazer a checagem basta executar o script 'check_ips.sh'.
 
